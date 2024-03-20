@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using TaibStore.DataAccess.Context;
+
 namespace TaibStore
 {
     public class Program
@@ -13,6 +16,10 @@ namespace TaibStore
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddDbContext<WebStoreContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultSQLConnection"));
+            });
 
             var app = builder.Build();
 

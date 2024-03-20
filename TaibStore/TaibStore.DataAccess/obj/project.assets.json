@@ -2987,25 +2987,28 @@
   "packageFolders": {
     "C:\\Users\\Student\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TaibStore\\TaibStore.DataAccess\\TaibStore.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.DataAccess\\TaibStore.DataAccess.csproj",
       "projectName": "TaibStore.DataAccess",
-      "projectPath": "D:\\TaibStore\\TaibStore.DataAccess\\TaibStore.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.DataAccess\\TaibStore.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "D:\\TaibStore\\TaibStore.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -3019,8 +3022,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\TaibStore\\TaibStore.Model\\TaibStore.Model.csproj": {
-              "projectPath": "D:\\TaibStore\\TaibStore.Model\\TaibStore.Model.csproj"
+            "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.Model\\TaibStore.Model.csproj": {
+              "projectPath": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.Model\\TaibStore.Model.csproj"
             }
           }
         }

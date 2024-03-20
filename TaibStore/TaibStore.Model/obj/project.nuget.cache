@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kGR0hAxs1uKu0VmBvzA63tIMj/UB1J17hbWj/6j7p2DyscQJ6TIYeVtdd+GGhAwE/AmF4H3CpKu/GQ0CsocROA==",
+  "dgSpecHash": "3zGZttR9VkIqnGXOMQZassURKPEj7/+/t6XbywH7gqUVr3+K639EBuo6z/AkfQeP+rz3GqD7eVYcrNrXMQzMZg==",
   "success": true,
-  "projectFilePath": "D:\\TaibStore\\TaibStore.Model\\TaibStore.Model.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.Model\\TaibStore.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.17\\microsoft.entityframeworkcore.7.0.17.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.17\\microsoft.entityframeworkcore.abstractions.7.0.17.nupkg.sha512",

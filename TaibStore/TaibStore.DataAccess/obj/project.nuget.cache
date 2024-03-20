@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0VAt6IA0+PhLRoYlatDVX4hW8i6bz31FTnd9PlIE9rRlGoCNJmbFLqteD9NXLWXliH8kU5hhvwdbTSrLj+ydjQ==",
+  "dgSpecHash": "P9DJPq98f7Q6NQb8z8yUsAlE+wtc68mn6s38B8uDn/PG8ZRSGuV/4eBPg0fJNcqUpiYDbV0m8622H6G8/SDb3g==",
   "success": true,
-  "projectFilePath": "D:\\TaibStore\\TaibStore.DataAccess\\TaibStore.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.DataAccess\\TaibStore.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
