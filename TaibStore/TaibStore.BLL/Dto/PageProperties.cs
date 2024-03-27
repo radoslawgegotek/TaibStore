@@ -6,6 +6,7 @@
         public int PageSize { get; set; }
         public bool FilterByName { get; set; }
         public bool FilterByActivated { get; set; }
+        public bool Ascending { get; set; }
         public string OrderBy { get; set; }
     }
 }

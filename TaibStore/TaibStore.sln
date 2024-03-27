@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaibStore.Model", "TaibStor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaibStore.DataAccess", "TaibStore.DataAccess\TaibStore.DataAccess.csproj", "{06AE7A46-A71F-4045-85F2-8E6871788180}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaibStore.BLL", "TaibStore.BLL\TaibStore.BLL.csproj", "{CF67C764-28E6-40D7-9206-A9E7EDCD13BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaibStore.BLL", "TaibStore.BLL\TaibStore.BLL.csproj", "{CF67C764-28E6-40D7-9206-A9E7EDCD13BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaibStore.BLL.EF", "TaibStore.BLL.EF\TaibStore.BLL.EF.csproj", "{76FF9B4F-EA50-4817-9F72-B75A821BDD57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CF67C764-28E6-40D7-9206-A9E7EDCD13BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF67C764-28E6-40D7-9206-A9E7EDCD13BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF67C764-28E6-40D7-9206-A9E7EDCD13BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FF9B4F-EA50-4817-9F72-B75A821BDD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FF9B4F-EA50-4817-9F72-B75A821BDD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FF9B4F-EA50-4817-9F72-B75A821BDD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FF9B4F-EA50-4817-9F72-B75A821BDD57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

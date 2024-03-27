@@ -3422,11 +3422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore\\TaibStore.csproj",
+      "projectUniqueName": "D:\\taiib\\TaibStore-main\\TaibStore\\TaibStore\\TaibStore.csproj",
       "projectName": "TaibStore",
-      "projectPath": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore\\TaibStore.csproj",
+      "projectPath": "D:\\taiib\\TaibStore-main\\TaibStore\\TaibStore\\TaibStore.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore\\obj\\",
+      "outputPath": "D:\\taiib\\TaibStore-main\\TaibStore\\TaibStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3451,8 +3451,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.DataAccess\\TaibStore.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.DataAccess\\TaibStore.DataAccess.csproj"
+            "D:\\taiib\\TaibStore-main\\TaibStore\\TaibStore.DataAccess\\TaibStore.DataAccess.csproj": {
+              "projectPath": "D:\\taiib\\TaibStore-main\\TaibStore\\TaibStore.DataAccess\\TaibStore.DataAccess.csproj"
             }
           }
         }

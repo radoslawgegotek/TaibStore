@@ -7,5 +7,6 @@ namespace TaibStore.BLL.Dto.Order
         public ProductResponseDto Product { get; set; }
         public int Amount { get; set; }
         public double Price { get; set; }
+        public int OrderID { get; set; }
     }
 }

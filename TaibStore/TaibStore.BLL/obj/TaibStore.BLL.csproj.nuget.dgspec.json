@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.BLL\\TaibStore.BLL.csproj": {}
+    "D:\\taiib\\TaibStore-main\\TaibStore\\TaibStore.BLL\\TaibStore.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.BLL\\TaibStore.BLL.csproj": {
+    "D:\\taiib\\TaibStore-main\\TaibStore\\TaibStore.BLL\\TaibStore.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.BLL\\TaibStore.BLL.csproj",
+        "projectUniqueName": "D:\\taiib\\TaibStore-main\\TaibStore\\TaibStore.BLL\\TaibStore.BLL.csproj",
         "projectName": "TaibStore.BLL",
-        "projectPath": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.BLL\\TaibStore.BLL.csproj",
+        "projectPath": "D:\\taiib\\TaibStore-main\\TaibStore\\TaibStore.BLL\\TaibStore.BLL.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Desktop\\TaibStore-main\\TaibStore\\TaibStore.BLL\\obj\\",
+        "outputPath": "D:\\taiib\\TaibStore-main\\TaibStore\\TaibStore.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
